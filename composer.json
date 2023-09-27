@@ -35,7 +35,8 @@
         "goldfinch/service": "dev-main",
         "goldfinch/blocks": "dev-main",
         "goldfinch/search": "dev-main",
-        "goldfinch/loadmore": "dev-main"
+        "goldfinch/loadmore": "dev-main",
+        "goldfinch/requester": "dev-master"
     },
     "autoload": {
         "psr-4": {
