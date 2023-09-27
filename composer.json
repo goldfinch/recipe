@@ -34,7 +34,9 @@
         "goldfinch/dashcore": "dev-main",
         "goldfinch/nest": "dev-main",
         "goldfinch/service": "dev-main",
-        "goldfinch/blocks": "dev-main"
+        "goldfinch/blocks": "dev-main",
+        "goldfinch/search": "dev-main",
+        "goldfinch/loadmore": "dev-main"
     },
     "autoload": {
         "psr-4": {
