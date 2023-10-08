@@ -18,7 +18,7 @@
         "goldfinch/basement": "dev-master",
         "goldfinch/socialkit": "dev-main",
         "goldfinch/intsupply": "dev-main",
-        "goldfinch/seokit": "dev-main",
+        "goldfinch/seo": "dev-main",
         "goldfinch/cookieconsent": "dev-main",
         "goldfinch/enchantment": "dev-bs53",
         "goldfinch/dashpanel": "dev-master",
