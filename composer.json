@@ -37,6 +37,9 @@
         "goldfinch/search": "dev-main",
         "goldfinch/loadmore": "dev-main",
         "goldfinch/requester": "dev-master",
+        "goldfinch/json-editor": "dev-master",
+        "goldfinch/focuspoint-extra": "dev-master",
+        "goldfinch/google-maps": "dev-master",
         "goldfinch/taz": "dev-main"
     },
     "autoload": {
