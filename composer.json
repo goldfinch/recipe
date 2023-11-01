@@ -34,6 +34,7 @@
         "goldfinch/nest": "dev-main",
         "goldfinch/service": "dev-main",
         "goldfinch/blocks": "dev-main",
+        "goldfinch/video": "dev-main",
         "goldfinch/search": "dev-main",
         "goldfinch/loadmore": "dev-main",
         "goldfinch/requester": "dev-master",
