@@ -26,7 +26,7 @@
         "goldfinch/bugtracker": "dev-master",
         "goldfinch/performance": "dev-master",
         "goldfinch/cleaner": "dev-main",
-        "goldfinch/components": "dev-master",
+        "goldfinch/html-components": "dev-master",
         "goldfinch/editor-config": "dev-master",
         "goldfinch/helpers": "dev-master",
         "goldfinch/dashcore": "dev-main",
