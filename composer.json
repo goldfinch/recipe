@@ -35,7 +35,7 @@
         "goldfinch/blocks": "dev-main",
         "goldfinch/video": "dev-main",
         "goldfinch/search": "dev-main",
-        "goldfinch/loadmore": "dev-main",
+        "goldfinch/loadable": "dev-main",
         "goldfinch/requester": "dev-master",
         "goldfinch/json-editor": "dev-master",
         "goldfinch/focuspoint-extra": "dev-master",
