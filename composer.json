@@ -33,7 +33,8 @@
         "goldfinch/json-editor": "dev-master",
         "goldfinch/focuspoint-extra": "dev-master",
         "goldfinch/taz": "dev-main",
-        "goldfinch/front-components": "dev-main"
+        "goldfinch/front-components": "dev-main",
+        "goldfinch/silverstripe-googlemapfield": "^2.2"
     },
     "autoload": {
         "psr-4": {
