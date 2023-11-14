@@ -17,7 +17,7 @@
         "goldfinch/basement": "dev-master",
         "goldfinch/intsupply": "dev-main",
         "goldfinch/seo": "dev-main",
-        "goldfinch/enchantment": "5.1",
+        "goldfinch/enchantment": "^5.1",
         "goldfinch/dashpanel": "dev-master",
         "goldfinch/imaginarium": "dev-main",
         "goldfinch/dashboard": "dev-master",
