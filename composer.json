@@ -35,8 +35,7 @@
         "goldfinch/taz": "dev-main",
         "goldfinch/front-components": "dev-main",
         "goldfinch/silverstripe-grouped-cms-menu": "^4",
-        "goldfinch/silverstripe-image-points": "^1.1",
-        "goldfinch/silverstripe-googlemapfield": "^2.2"
+        "goldfinch/silverstripe-image-points": "^1.1"
     },
     "autoload": {
         "psr-4": {
