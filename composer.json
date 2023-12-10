@@ -15,7 +15,7 @@
         "silverstripe/admin": "^2.0",
         "swordfox/vite": "^3.0",
         "goldfinch/illuminate": "^1.0",
-        "goldfinch/basement": "dev-master",
+        "goldfinch/basement": "^1.0",
         "goldfinch/intsupply": "dev-main",
         "goldfinch/seo": "dev-main",
         "goldfinch/enchantment": "^5.1",
