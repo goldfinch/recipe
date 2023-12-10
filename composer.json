@@ -24,7 +24,7 @@
         "goldfinch/dashboard": "dev-master",
         "goldfinch/cleaner": "dev-main",
         "goldfinch/editor-config": "dev-master",
-        "goldfinch/helpers": "dev-master",
+        "goldfinch/helpers": "^1.0",
         "goldfinch/dashcore": "dev-main",
         "goldfinch/nest": "dev-main",
         "goldfinch/service": "dev-main",
