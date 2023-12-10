@@ -20,7 +20,7 @@
         "goldfinch/taz": "^1.0",
         "goldfinch/enchantment": "^5.1",
         "goldfinch/intsupply": "^1.0",
-        "goldfinch/seo": "dev-main",
+        "goldfinch/seo": "^1.0",
         "goldfinch/dashpanel": "dev-master",
         "goldfinch/imaginarium": "dev-main",
         "goldfinch/dashboard": "dev-master",
