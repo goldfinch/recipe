@@ -31,7 +31,7 @@
         "goldfinch/service": "dev-main",
         "goldfinch/blocks": "dev-main",
         "goldfinch/video": "dev-main",
-        "goldfinch/requester": "dev-master",
+        "goldfinch/requester": "^1.0",
         "goldfinch/json-editor": "^1.0",
         "goldfinch/focuspoint-extra": "dev-master",
         "goldfinch/front-components": "dev-main",
