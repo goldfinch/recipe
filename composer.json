@@ -33,9 +33,9 @@
         "goldfinch/video": "dev-main",
         "goldfinch/requester": "^1.0",
         "goldfinch/json-editor": "^1.0",
-        "goldfinch/focuspoint-extra": "dev-master",
+        "goldfinch/focuspoint-extra": "^1.0",
         "goldfinch/front-components": "dev-main",
-        "goldfinch/shortcode": "dev-main",
+        "goldfinch/shortcode": "^1.0",
         "goldfinch/silverstripe-grouped-cms-menu": "^4",
         "goldfinch/silverstripe-image-points": "^1.1"
     },
