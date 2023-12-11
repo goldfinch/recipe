@@ -26,7 +26,6 @@
         "goldfinch/imaginarium": "dev-main",
         "goldfinch/cleaner": "dev-main",
         "goldfinch/editor-config": "dev-master",
-        "goldfinch/dashcore": "dev-main",
         "goldfinch/nest": "dev-main",
         "goldfinch/service": "dev-main",
         "goldfinch/blocks": "dev-main",
