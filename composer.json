@@ -17,6 +17,7 @@
         "goldfinch/illuminate": "^1.0",
         "goldfinch/basement": "^1.0",
         "goldfinch/helpers": "^1.0",
+        "goldfinch/harvest": "^1.0",
         "goldfinch/taz": "^1.0",
         "goldfinch/enchantment": "^5.1",
         "goldfinch/intsupply": "^1.0",
