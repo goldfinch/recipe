@@ -36,6 +36,7 @@
         "goldfinch/focuspoint-extra": "^1.0",
         "goldfinch/front-components": "^1.0",
         "goldfinch/shortcode": "^1.0",
+        "goldfinch/icon": "^1.0",
         "goldfinch/silverstripe-grouped-cms-menu": "^4",
         "goldfinch/silverstripe-image-points": "^1.1",
         "goldfinch/silverstripe-imageselection-field": "^2.0"
