@@ -21,6 +21,7 @@
         "goldfinch/taz": "^1.0",
         "goldfinch/enchantment": "^5.1",
         "goldfinch/intsupply": "^1.0",
+        "goldfinch/google-autocomplete": "^1.0",
         "goldfinch/seo": "^1.0",
         "goldfinch/dashboard": "^1.0",
         "goldfinch/dashpanel": "^1.0",
