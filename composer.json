@@ -34,7 +34,7 @@
         "goldfinch/video": "^1.0",
         "goldfinch/requester": "^1.0",
         "goldfinch/json-editor": "^1.0",
-        "goldfinch/focuspoint-extra": "^1.0",
+        "goldfinch/image-editor": "^1.0",
         "goldfinch/front-components": "^1.0",
         "goldfinch/shortcode": "^1.0",
         "goldfinch/icon": "^1.0",
