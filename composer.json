@@ -18,6 +18,7 @@
         "goldfinch/illuminate": "^1.0",
         "goldfinch/basement": "^1.0",
         "goldfinch/helpers": "^1.0",
+        "goldfinch/cli-supplier": "^1.0",
         "goldfinch/fielder": "^1.0",
         "goldfinch/mill": "^1.0",
         "goldfinch/harvest": "^1.0",
