@@ -43,6 +43,7 @@
         "goldfinch/shortcode": "^1.0",
         "goldfinch/icon": "^1.0",
         "goldfinch/google-fields": "^1.0",
+        "goldfinch/date": "^1.0",
         "goldfinch/silverstripe-grouped-cms-menu": "^4",
         "goldfinch/silverstripe-image-points": "^1.1",
         "goldfinch/silverstripe-imageselection-field": "^2.0"
