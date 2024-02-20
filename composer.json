@@ -42,6 +42,7 @@
         "goldfinch/front-components": "^1.0",
         "goldfinch/shortcode": "^1.0",
         "goldfinch/icon-field": "^1.0",
+        "goldfinch/video-field": "^1.0",
         "goldfinch/google-fields": "^1.0",
         "goldfinch/date": "^1.0",
         "goldfinch/silverstripe-grouped-cms-menu": "^4",
