@@ -40,7 +40,6 @@
         "goldfinch/requester": "^2.0",
         "goldfinch/json-editor": "^2.0",
         "goldfinch/image-editor": "^2.0",
-        "goldfinch/front-components": "^1.0",
         "goldfinch/shortcode": "^2.0",
         "goldfinch/icon-field": "^2.0",
         "goldfinch/video-field": "^2.0",
